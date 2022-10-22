@@ -23,4 +23,5 @@ class Network(object):
         return tabulate(speed, headers="firstrow", tablefmt="fancy_grid")
 
 if __name__ == "__main__":
+    print("Your Networ Speed Is : ")
     print(Network())
