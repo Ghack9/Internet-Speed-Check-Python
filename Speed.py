@@ -25,3 +25,4 @@ class Network(object):
 if __name__ == "__main__":
     print("Your Networ Speed Is : ")
     print(Network())
+    print(" Mbps")
